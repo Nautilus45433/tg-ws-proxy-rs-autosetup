@@ -9,6 +9,6 @@ curl https://raw.githubusercontent.com/Nautilus45433/tg-ws-proxy-rs-autosetup/re
 ```
 
 # Подключение
-```
-https://t.me/proxy?server=127.0.0.1&port=1443&secret=1234
-```
+Сервер: `127.0.0.1`<br>
+Порт: `1443`<br>
+Ключ: `1234`
