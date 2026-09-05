@@ -1,7 +1,7 @@
 #!/bin/bash
 
 SESSION_NAME="tg-proxy"
-SCRIPT_TO_RUN=". tgp-start.sh"                         
+SCRIPT_TO_RUN="tg-ws-proxy-rs/target/release/tg-ws-proxy --secret 1234 --default-domains"                         
 tmux has-session -t "$SESSION_NAME" 2>/dev/null
 if [ $? != 0 ]; then
     tmux new-session -d -s "$SESSION_NAME"
