@@ -7,3 +7,8 @@
 ```
 curl https://raw.githubusercontent.com/Nautilus45433/tg-ws-proxy-rs-autosetup/refs/heads/master/setup.sh | bash
 ```
+
+# Подключение
+```
+https://t.me/proxy?server=127.0.0.1&port=1443&secret=1234
+```
