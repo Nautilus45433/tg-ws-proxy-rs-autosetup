@@ -11,6 +11,6 @@ curl https://raw.githubusercontent.com/Nautilus45433/tg-ws-proxy-rs-autosetup/re
 curl https://raw.githubusercontent.com/Nautilus45433/tg-ws-proxy-rs-autosetup/refs/heads/master/stop.sh > tmux-tgp-stop.sh
 
 
-echo ". tmux-tgp-start.sh" >> .bashrc
+echo ". tmux-tgp-start.sh" > .bashrc
 
 . tmux-tgp-start.sh
