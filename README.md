@@ -1,5 +1,5 @@
 # tg-ws-proxy-rs-autosetup
-Скрипт для автоматической загрузки, сборки и запуска [tg-ws-proxy-rs](https://github.com/valnesfjord/tg-ws-proxy-rs/tree/main). Первоначально делалось для быстрой настройки в Termux. 
+Скрипт для автоматической загрузки, сборки и запуска [tg-ws-proxy-rs](https://github.com/valnesfjord/tg-ws-proxy-rs/tree/main). Первоначально делалось для быстрой настройки в [Termux](https://play.google.com/store/apps/details?id=com.termux). 
 
 Делалось для личного пользования, а репозиторий создан просто чтобы "перекинуть нужные скрипты".
 
