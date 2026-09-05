@@ -1,7 +1,7 @@
 pkg update && pkg upgrade -y
 pkg install git rust make clang binutils tmux -y
 
-git clone https://github.com/valnesfjord/tg-w-proxy-rs.git
+git clone https://github.com/valnesfjord/tg-ws-proxy-rs.git
 
 cd tg-ws-proxy-rs
 cargo build --release
