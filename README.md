@@ -8,6 +8,14 @@
 curl https://raw.githubusercontent.com/Nautilus45433/tg-ws-proxy-rs-autosetup/refs/heads/master/setup.sh | bash
 ```
 
+## Опционально
+Для экономии места после установки можно использовать скрипт для удаления исходного кода и пакетов, которые были задействованы в процессе сборки проекта.
+
+```
+curl https://raw.githubusercontent.com/Nautilus45433/tg-ws-proxy-rs-autosetup/refs/heads/master/clean.sh | bash
+```
+
+
 # Подключение
 Сервер: `127.0.0.1`<br>
 Порт: `1443`<br>
